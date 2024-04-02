@@ -23,11 +23,11 @@ To run the game, follow these steps:
 
 ## About the author
 
-Name: sundei
-Age: 17
-School: Tartu Vocational College
-Contact: sundei@sundei.ee
-https://sundei.ee
+* Name: sundei
+* Age: 17
+* School: Tartu Vocational College
+* Contact: sundei@sundei.ee
+* https://sundei.ee
 
 ## Materials used
 * Teacher's instructions? Probably... I guess...
