@@ -19,7 +19,7 @@ To run the game, follow these steps:
 * Then, use the arrow keys to control the player's movements
 * NB! With each level, the speed is getting faster.
 
-![image](https://cdn.sundei.eu/github-stuff/jumpscare.jpg)
+![image](https://cdn.sundei.eu/github-stuff/jumpsacre.jpg)
 
 ## About the author
 
